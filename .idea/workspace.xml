@@ -2,63 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faf45ce8-879d-45cc-9753-152c7e19bb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/midMorningDjangoRegistration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/migrations/0002_supplier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/jquery-3.4.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add-supplier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/payment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/suppliers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/update-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midMorningDjangoRegistration/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midMorningDjangoRegistration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/midMorningDjangoRegistration/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/suppliers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/suppliers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +94,10 @@
       <workItem from="1678263095823" duration="5770000" />
       <workItem from="1678338560664" duration="31000" />
       <workItem from="1678349413637" duration="6104000" />
-      <workItem from="1678436442471" duration="308000" />
+      <workItem from="1678436442471" duration="2558000" />
+      <workItem from="1678684541393" duration="124000" />
+      <workItem from="1678695456667" duration="554000" />
+      <workItem from="1678705130427" duration="13000" />
     </task>
     <servers />
   </component>

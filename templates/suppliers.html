@@ -8,13 +8,13 @@
                 <th>Email</th>
                 <th>Product</th>
             </tr>
-            {%  for supplier in add-supplier %}
+            {%  for supplier in view_suppliers %}
                 <tr>
-                    <td>{{ product.prod_name }}</td>
-                    <td>{{ product.prod_quantity }}</td>
-                    <td>{{ product.prod_price }}</td>
-                    <td><a href="/delete-product/{{ product.id }}">Delete</a></td>
-                    <td><a href="/update-product/ {{ product.id }}">Update</a></td>
+                    <td>{{ supplier.sup_name }}</td>
+                    <td>{{ supplier.sup_email }}</td>
+                    <td>{{ supplier.sup_product }}</td>
+                    <td><a href="/delete-product/{{ supplier.id }}">Delete</a></td>
+                    <td><a href="/update-product/ {{ supplier.id }}">Update</a></td>
                 </tr>
 
             {% endfor %}

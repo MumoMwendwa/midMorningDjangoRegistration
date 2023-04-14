@@ -59,6 +59,13 @@ def view_products(request):
 
 
 @login_required
+def view_suppliers(request):
+    # select all suppliers to be displayed
+    supplier = Supplier.objects.all()
+    return render(request, 'suppliers.html', {'supplier': supplier})
+
+
+@login_required
 def delete_product(request, id):
     # fetch the product to be deleted
     product = Product.objects.get(id=id)
